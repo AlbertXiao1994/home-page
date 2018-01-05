@@ -18,8 +18,8 @@ body {
   font-size: 30px;
   font-weight: 700;
   text-align: center;
-  animation: fall 2s;
-  -webkit-animation: fall 2s;
+  animation: fall 3s;
+  -webkit-animation: fall 3s;
 }
 @keyframes fall {
   from {
@@ -37,8 +37,8 @@ body {
   width: 500px;
   height: 500px;
   margin: auto;
-  animation: scroll 2s;
-  -webkit-animation: scroll 2s;
+  animation: scroll 3s;
+  -webkit-animation: scroll 3s;
 }
 @keyframes scroll {
   from {
